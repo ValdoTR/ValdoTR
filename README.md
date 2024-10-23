@@ -1,6 +1,6 @@
 # 💫 Hi YOU
 
-💻 I like Javascript and any other fun language too.<br>
+💻 I mainly do PHP and Javascript<br>
 🚀 I'm currently working on the [WorkAdventure](https://workadventu.re/) product as Designer, Developer, Support.<br>
 🐍 I like programming small utility/productivity tools in Python, although that's not my main programming language.<br>
 🎮 Fun fact: My current side project is to create a custom Pokémon game for my nephew.
